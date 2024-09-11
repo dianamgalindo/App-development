@@ -2,7 +2,7 @@
 
 This Repository contains the documentation of the iterative design and development process for an app that is aimed at the Arts Student Union community. This documentation demonstrates development in the areas of graphic design, information visualisation, user experience, and the use of Swift as a medium to bring the app to life. 
 
-![Github project support asset](https://git.arts.ac.uk/17518357/App-Development-Studio_y2/blob/main/Resources/main_banner.png)
+![Github project support asset](https://github.com/dianamgalindo/App-development/blob/master/Resources/main_banner.png)
 
 ## Folder structure
 - **1. Design and Process Documentation:** This folder contains the presentation done for the formative assignment and the full project documentation, both in PDF format.
